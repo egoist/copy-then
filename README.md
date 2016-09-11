@@ -35,7 +35,7 @@ function copyFiles() {
     ['./from/b.js', '.nested/dest/dir/b.js'],
     ['./from/c.js', '.nested/dest/dir/c.js']
   ]
-  return Promise.all(files.map(file => copy(file[0]. file[1])))
+  return Promise.all(files.map(file => copy(file[0], file[1])))
 }
 ```
 
