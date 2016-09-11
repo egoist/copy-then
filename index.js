@@ -4,7 +4,7 @@ const path = require('path')
 
 /**
  * Copy a file
- * @param {string} from - The file to copy
+ * @param {string|Stream} from - The file to copy
  * @param {string} to - The path to write file
  * @returns {Promise}
  */
