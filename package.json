@@ -1,0 +1,33 @@
+{
+  "name": "copy-then",
+  "version": "0.0.0",
+  "description": "Simply utility for copying files with Promise support.",
+  "license": "MIT",
+  "repository": "egoist/copy-then",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "example": "rm -rf __*.* && node example"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {
+    "ava": "latest",
+    "xo": "latest"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2
+  }
+}
