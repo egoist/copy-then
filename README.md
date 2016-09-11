@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/copy-then.svg?style=flat-square)](https://npmjs.com/package/copy-then) [![NPM downloads](https://img.shields.io/npm/dm/copy-then.svg?style=flat-square)](https://npmjs.com/package/copy-then) [![Build Status](https://img.shields.io/circleci/project/egoist/copy-then/master.svg?style=flat-square)](https://circleci.com/gh/egoist/copy-then)
 
-> Simply utility for copying files with Promise support.
+> Simple utility for copying files with Promise support.
 
 ## Install
 

@@ -1,7 +1,7 @@
 {
   "name": "copy-then",
   "version": "0.0.0",
-  "description": "Simply utility for copying files with Promise support.",
+  "description": "Simple utility for copying files with Promise support.",
   "license": "MIT",
   "repository": "egoist/copy-then",
   "author": {
